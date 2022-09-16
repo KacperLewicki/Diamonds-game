@@ -1,4 +1,2 @@
-Project diamonds
-
-------
-End
+Game diamonds
+-----------------------
