@@ -1,11 +1,12 @@
 {
-  "homepage": "https://l3vix99.github.io/Diamonds-game/",
+  "homepage": "https://KacperLewicki.github.io/Diamonds-game/",
 
   "dependencies": {
     "gh-pages": "^4.0.0"
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build",
+    "build": ""
   }
 }
