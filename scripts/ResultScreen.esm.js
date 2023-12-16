@@ -3,7 +3,7 @@ import { Common, HIDDEN_SCREEN, VISIBLE_SCREEN } from "./Common.esm.js";
 import { game } from "./Game.esm.js";
 import { levelSelect } from "./LevelSelect.esm.js";
 import { mainMenu } from "./MainMenu.esm.js";
-import { userData } from "./UserDate.esm.js";
+
 
 const RESULT_SCREEN_GAME_WIN_CLASS = "end-screen--is-win";
 const RESULT_SCREEN_END_SCREEN_ID ="js-end-screen";

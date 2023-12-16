@@ -3,7 +3,7 @@ import { canvas } from "./Canvas.esm.js";
 import {DATALOADED_EVENT_NAME, loader } from './Loading.esm.js';
 import { game } from "./Game.esm.js";
 import { media } from "./Media.esm.js";
-import { gameLevels } from "./GameLevels.esm.js";
+import { gameLevels } from "./GameLevels.esm.js ";
 import { userData } from "./UserDate.esm.js";
 
 

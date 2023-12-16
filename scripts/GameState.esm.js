@@ -1,5 +1,4 @@
 import { Diamond } from "./Diamond.esm.js";
-import { DIAMOND_SIZE } from "./GameLevels.esm.js";
 import { game, DIAMONDS_ARRAY_WIDTH} from "./Game.esm.js";
 
 export class GameState {
